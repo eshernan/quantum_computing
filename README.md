@@ -1,4 +1,4 @@
-# Guide to install all  requerimients necesary to this workshop 
+# Guide to install all requirements necessary to this workshop
 
 1. Create a virtual environtment called qcve using <br>
     ``bash python -m venv qcve``
